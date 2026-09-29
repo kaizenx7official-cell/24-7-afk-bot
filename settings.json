@@ -1,14 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ganjasmpxyz.aternos.me
-",
+    "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ganjasmpxyz.aternos.me
-",
+    "ip": "ganjasmpxyz.aternos.me",
     "port": 45408,
     "version": "1.20.1",
     "try-creative": false
